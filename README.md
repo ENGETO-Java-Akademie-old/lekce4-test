@@ -14,5 +14,3 @@ Repozitar k seznameni s gitem
 - šestá změna MA
 
 - sedma zmena
-
-- posledni zmena
