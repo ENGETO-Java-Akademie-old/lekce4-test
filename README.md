@@ -14,3 +14,4 @@ Repozitar k seznameni s gitem
 - šestá změna MA
 
 - sedma zmena
+- Osma zmena VH
