@@ -5,4 +5,7 @@ Repozitar k seznameni s gitem
 
 - Druha zmena 
 
-- Treti zmena Lukas
+- Tretia zmena PP
+
+- Čtvrtá změna
+
