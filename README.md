@@ -6,3 +6,5 @@ Repozitar k seznameni s gitem
 - Druha zmena 
 
 - Tretia zmena PP
+
+- Čtvrtá změna
