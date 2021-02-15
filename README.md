@@ -5,6 +5,12 @@ Repozitar k seznameni s gitem
 
 - Druha zmena 
 
-- Treti zmena
+- Tretia zmena PP
 
-- Ctvrta zmena
+- Čtvrtá změna
+
+- Pátá změna PH
+
+- šestá změna MA
+
+- sedma zmena
