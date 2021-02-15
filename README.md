@@ -10,3 +10,6 @@ Repozitar k seznameni s gitem
 - Čtvrtá změna
 
 - Pátá změna PH
+
+- šestá změna MA
+
